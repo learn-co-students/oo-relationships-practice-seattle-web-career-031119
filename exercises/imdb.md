@@ -21,7 +21,8 @@ Write out the relationships using has_many, belongs_to and has_many_through. Wri
 
 #### Show
 - #on_the_big_screen
-  - should return TV shows that share the same name as a movie
+  - should return the name of movies in which the show has existed in.
+  <!-- - should return TV shows that share the same name as a movie -->
 
 #### Character
 - #most_appearances
